@@ -56,10 +56,8 @@
   font-style: italic;
   font-family: cursive;
 }
-.element {
-  width: 100%;
-  height: 100%;
-  animation: pulse 5s infinite;
+body {
+  animation: pulse 10s infinite;
 }
 
 @keyframes pulse {
