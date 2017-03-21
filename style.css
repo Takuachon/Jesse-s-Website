@@ -96,3 +96,20 @@ body {
       margin: 0 auto;
       background: black;
     }
+  }
+  #myCarousel{
+      width: 50%;
+      margin: 0 auto;
+  }
+  #carouselText{
+    font-size: 16px;
+    font-family: 'Diplomata SC', cursive;
+
+    -webkit-animation-name: chilleffect; /* Safari 4.0 - 8.0 */
+    -webkit-animation-duration: 5s;
+    animation-name: chilleffect;
+    font-size: 200%;
+    animation-duration: 5s;
+    animation-iteration-count: infinite;
+    -webkit-animation-iteration-count: infinite;
+  }
